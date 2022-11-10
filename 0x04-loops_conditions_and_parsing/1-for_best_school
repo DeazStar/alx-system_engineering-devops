@@ -6,4 +6,3 @@ for ((j = 0; j< 9; j++))
 do
 	echo "Best School"
 done 
-
